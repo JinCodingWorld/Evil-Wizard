@@ -10,6 +10,9 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 
+# 직접 지정 무시 폴더
+Asset No Github/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
